@@ -1,0 +1,68 @@
+version: "3.9"
+
+# ── Networks ──────────────────────────────────────────────────────────────────
+networks:
+  nlp-internal:
+    driver: bridge
+  nlp-external:
+    driver: bridge
+
+# ── Volumes ───────────────────────────────────────────────────────────────────
+volumes:
+  model-artifacts:
+  monitor-logs:
+
+# ── Services ─────────────────────────────────────────────────────────────────
+services:
+
+  # ── Sentiment API ─────────────────────────────────────────────────────────
+  sentiment-svc:
+    build:
+      context: .
+      dockerfile: container/Dockerfile
+    image: review-sentiment:1.0.0
+    container_name: sentiment_svc
+    environment:
+      MODEL_DIR:  src/network/saved
+      LOG_LEVEL:  INFO
+      PORT:       "8080"
+      WORKERS:    "2"
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./src/network/saved:/service/src/network/saved:ro
+      - monitor-logs:/service/monitoring/logs
+    restart: on-failure:3
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:8080/status"]
+      interval: 25s
+      timeout:  8s
+      retries:  3
+      start_period: 45s
+    networks:
+      - nlp-internal
+      - nlp-external
+    deploy:
+      resources:
+        limits:
+          cpus: "1.5"
+          memory: 1536M
+        reservations:
+          memory: 256M
+      replicas: 1
+
+  # ── Nginx Gateway ──────────────────────────────────────────────────────────
+  gateway:
+    image: nginx:1.25-alpine
+    container_name: nlp_gateway
+    ports:
+      - "80:80"
+    volumes:
+      - ./deployment/nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    depends_on:
+      sentiment-svc:
+        condition: service_healthy
+    networks:
+      - nlp-internal
+      - nlp-external
+    restart: unless-stopped
