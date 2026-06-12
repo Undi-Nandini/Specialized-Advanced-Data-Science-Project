@@ -1,0 +1,701 @@
+review_id,text,label,category
+R0001,Works as expected. A ordinary purchase overall with no major complaints.,1,Neutral
+R0002,The excellent quality really impressed me. Would buy again without hesitation.,2,Positive
+R0003,outstanding product with exceptional support team. Could not ask for more.,2,Positive
+R0004,Five stars all the way. This is truly excellent and worth every penny.,2,Positive
+R0005,This is honestly horrible. Biggest waste of money I have ever spent.,0,Negative
+R0006,It is a adequate product. Nothing special but nothing too bad either.,1,Neutral
+R0007,Do not buy. The whole experience was terrible and I was disappointed.,0,Negative
+R0008,Average in most ways. A mediocre option if you have no other choice.,1,Neutral
+R0009,Absolutely outstanding experience from start to finish. Exceeded every expectation.,2,Positive
+R0010,The terrific quality really impressed me. Would buy again without hesitation.,2,Positive
+R0011,I am genuinely thrilled with this purchase. The quality is terrific.,2,Positive
+R0012,This is honestly dreadful. Biggest waste of money I have ever spent.,0,Negative
+R0013,wonderful product with exceptional support team. Could not ask for more.,2,Positive
+R0014,The product is ordinary. Would not rush to recommend but it is fine.,1,Neutral
+R0015,Expected so much more. The quality is atrocious and service is even worse.,0,Negative
+R0016,The wonderful quality really impressed me. Would buy again without hesitation.,2,Positive
+R0017,Cannot recommend this enough. Simply terrific in every single aspect.,2,Positive
+R0018,This is honestly disgusting. Biggest waste of money I have ever spent.,0,Negative
+R0019,Five stars all the way. This is truly outstanding and worth every penny.,2,Positive
+R0020,Completely atrocious from the packaging to the product itself. Avoid.,0,Negative
+R0021,Works as expected. A standard purchase overall with no major complaints.,1,Neutral
+R0022,The product is reasonable. Would not rush to recommend but it is fine.,1,Neutral
+R0023,An passable item that does exactly what the description says.,1,Neutral
+R0024,Regret every penny spent. The product is awful and does not work.,0,Negative
+R0025,Do not buy. The whole experience was terrible and I was disappointed.,0,Negative
+R0026,Works as expected. A standard purchase overall with no major complaints.,1,Neutral
+R0027,An reasonable item that does exactly what the description says.,1,Neutral
+R0028,The outstanding quality really impressed me. Would buy again without hesitation.,2,Positive
+R0029,Absolutely perfect experience from start to finish. Exceeded every expectation.,2,Positive
+R0030,Works as expected. A ordinary purchase overall with no major complaints.,1,Neutral
+R0031,Nothing remarkable here. Fairly mediocre experience all around.,1,Neutral
+R0032,Do not buy. The whole experience was worthless and I was disappointed.,0,Negative
+R0033,Nothing remarkable here. Fairly passable experience all around.,1,Neutral
+R0034,Works as expected. A typical purchase overall with no major complaints.,1,Neutral
+R0035,The great quality really impressed me. Would buy again without hesitation.,2,Positive
+R0036,Returned immediately. Everything about this is just appalling.,0,Negative
+R0037,The outstanding quality really impressed me. Would buy again without hesitation.,2,Positive
+R0038,Cannot recommend this enough. Simply fantastic in every single aspect.,2,Positive
+R0039,great product with exceptional support team. Could not ask for more.,2,Positive
+R0040,Cannot recommend this enough. Simply perfect in every single aspect.,2,Positive
+R0041,Works as expected. A mediocre purchase overall with no major complaints.,1,Neutral
+R0042,The product is ordinary. Would not rush to recommend but it is fine.,1,Neutral
+R0043,This is honestly useless. Biggest waste of money I have ever spent.,0,Negative
+R0044,Completely appalling from the packaging to the product itself. Avoid.,0,Negative
+R0045,I am genuinely thrilled with this purchase. The quality is brilliant.,2,Positive
+R0046,It is a reasonable product. Nothing special but nothing too bad either.,1,Neutral
+R0047,Returned immediately. Everything about this is just useless.,0,Negative
+R0048,Absolutely fantastic experience from start to finish. Exceeded every expectation.,2,Positive
+R0049,An standard item that does exactly what the description says.,1,Neutral
+R0050,perfect product with exceptional support team. Could not ask for more.,2,Positive
+R0051,Absolutely perfect experience from start to finish. Exceeded every expectation.,2,Positive
+R0052,Completely terrible from the packaging to the product itself. Avoid.,0,Negative
+R0053,Regret every penny spent. The product is dreadful and does not work.,0,Negative
+R0054,Returned immediately. Everything about this is just horrible.,0,Negative
+R0055,wonderful product with exceptional support team. Could not ask for more.,2,Positive
+R0056,Delivered on time. Quality seems mediocre for the price range.,1,Neutral
+R0057,An standard item that does exactly what the description says.,1,Neutral
+R0058,terrific product with exceptional support team. Could not ask for more.,2,Positive
+R0059,Do not buy. The whole experience was worthless and I was disappointed.,0,Negative
+R0060,I am genuinely thrilled with this purchase. The quality is excellent.,2,Positive
+R0061,I am genuinely thrilled with this purchase. The quality is amazing.,2,Positive
+R0062,Works as expected. A adequate purchase overall with no major complaints.,1,Neutral
+R0063,Regret every penny spent. The product is useless and does not work.,0,Negative
+R0064,Delivered on time. Quality seems mediocre for the price range.,1,Neutral
+R0065,Returned immediately. Everything about this is just dreadful.,0,Negative
+R0066,Expected so much more. The quality is terrible and service is even worse.,0,Negative
+R0067,The excellent quality really impressed me. Would buy again without hesitation.,2,Positive
+R0068,Completely atrocious from the packaging to the product itself. Avoid.,0,Negative
+R0069,outstanding product with exceptional support team. Could not ask for more.,2,Positive
+R0070,The excellent quality really impressed me. Would buy again without hesitation.,2,Positive
+R0071,Returned immediately. Everything about this is just atrocious.,0,Negative
+R0072,Expected so much more. The quality is appalling and service is even worse.,0,Negative
+R0073,I am genuinely thrilled with this purchase. The quality is superb.,2,Positive
+R0074,Shocking quality. Absolutely terrible and nothing like advertised.,0,Negative
+R0075,Works as expected. A reasonable purchase overall with no major complaints.,1,Neutral
+R0076,It is a acceptable product. Nothing special but nothing too bad either.,1,Neutral
+R0077,Regret every penny spent. The product is terrible and does not work.,0,Negative
+R0078,Works as expected. A acceptable purchase overall with no major complaints.,1,Neutral
+R0079,Five stars all the way. This is truly wonderful and worth every penny.,2,Positive
+R0080,Do not buy. The whole experience was dreadful and I was disappointed.,0,Negative
+R0081,Nothing remarkable here. Fairly ordinary experience all around.,1,Neutral
+R0082,Pleasantly surprised by how excellent this turned out to be.,2,Positive
+R0083,Cannot recommend this enough. Simply fantastic in every single aspect.,2,Positive
+R0084,Do not buy. The whole experience was appalling and I was disappointed.,0,Negative
+R0085,An ordinary item that does exactly what the description says.,1,Neutral
+R0086,Do not buy. The whole experience was worthless and I was disappointed.,0,Negative
+R0087,Cannot recommend this enough. Simply superb in every single aspect.,2,Positive
+R0088,Shocking quality. Absolutely atrocious and nothing like advertised.,0,Negative
+R0089,Shocking quality. Absolutely dreadful and nothing like advertised.,0,Negative
+R0090,Delivered on time. Quality seems moderate for the price range.,1,Neutral
+R0091,great product with exceptional support team. Could not ask for more.,2,Positive
+R0092,The excellent quality really impressed me. Would buy again without hesitation.,2,Positive
+R0093,An reasonable item that does exactly what the description says.,1,Neutral
+R0094,Expected so much more. The quality is atrocious and service is even worse.,0,Negative
+R0095,An passable item that does exactly what the description says.,1,Neutral
+R0096,This is honestly dreadful. Biggest waste of money I have ever spent.,0,Negative
+R0097,Completely useless from the packaging to the product itself. Avoid.,0,Negative
+R0098,Works as expected. A moderate purchase overall with no major complaints.,1,Neutral
+R0099,Pleasantly surprised by how terrific this turned out to be.,2,Positive
+R0100,Regret every penny spent. The product is useless and does not work.,0,Negative
+R0101,Average in most ways. A average option if you have no other choice.,1,Neutral
+R0102,I am genuinely thrilled with this purchase. The quality is outstanding.,2,Positive
+R0103,I am genuinely thrilled with this purchase. The quality is brilliant.,2,Positive
+R0104,Shocking quality. Absolutely pathetic and nothing like advertised.,0,Negative
+R0105,The superb quality really impressed me. Would buy again without hesitation.,2,Positive
+R0106,I am genuinely thrilled with this purchase. The quality is perfect.,2,Positive
+R0107,Nothing remarkable here. Fairly average experience all around.,1,Neutral
+R0108,Completely awful from the packaging to the product itself. Avoid.,0,Negative
+R0109,Do not buy. The whole experience was awful and I was disappointed.,0,Negative
+R0110,The product is ordinary. Would not rush to recommend but it is fine.,1,Neutral
+R0111,Cannot recommend this enough. Simply great in every single aspect.,2,Positive
+R0112,The product is ordinary. Would not rush to recommend but it is fine.,1,Neutral
+R0113,The wonderful quality really impressed me. Would buy again without hesitation.,2,Positive
+R0114,Do not buy. The whole experience was terrible and I was disappointed.,0,Negative
+R0115,I am genuinely thrilled with this purchase. The quality is wonderful.,2,Positive
+R0116,This is honestly dreadful. Biggest waste of money I have ever spent.,0,Negative
+R0117,An moderate item that does exactly what the description says.,1,Neutral
+R0118,Pleasantly surprised by how brilliant this turned out to be.,2,Positive
+R0119,superb product with exceptional support team. Could not ask for more.,2,Positive
+R0120,Pleasantly surprised by how perfect this turned out to be.,2,Positive
+R0121,Regret every penny spent. The product is horrible and does not work.,0,Negative
+R0122,Nothing remarkable here. Fairly reasonable experience all around.,1,Neutral
+R0123,I am genuinely thrilled with this purchase. The quality is amazing.,2,Positive
+R0124,Five stars all the way. This is truly wonderful and worth every penny.,2,Positive
+R0125,Do not buy. The whole experience was worthless and I was disappointed.,0,Negative
+R0126,Shocking quality. Absolutely useless and nothing like advertised.,0,Negative
+R0127,This is honestly atrocious. Biggest waste of money I have ever spent.,0,Negative
+R0128,Completely awful from the packaging to the product itself. Avoid.,0,Negative
+R0129,Nothing remarkable here. Fairly typical experience all around.,1,Neutral
+R0130,This is honestly worthless. Biggest waste of money I have ever spent.,0,Negative
+R0131,The product is standard. Would not rush to recommend but it is fine.,1,Neutral
+R0132,Pleasantly surprised by how great this turned out to be.,2,Positive
+R0133,This is honestly worthless. Biggest waste of money I have ever spent.,0,Negative
+R0134,Expected so much more. The quality is dreadful and service is even worse.,0,Negative
+R0135,Do not buy. The whole experience was terrible and I was disappointed.,0,Negative
+R0136,It is a standard product. Nothing special but nothing too bad either.,1,Neutral
+R0137,Expected so much more. The quality is useless and service is even worse.,0,Negative
+R0138,Five stars all the way. This is truly amazing and worth every penny.,2,Positive
+R0139,Cannot recommend this enough. Simply brilliant in every single aspect.,2,Positive
+R0140,The product is reasonable. Would not rush to recommend but it is fine.,1,Neutral
+R0141,Five stars all the way. This is truly great and worth every penny.,2,Positive
+R0142,Expected so much more. The quality is worthless and service is even worse.,0,Negative
+R0143,Pleasantly surprised by how brilliant this turned out to be.,2,Positive
+R0144,Works as expected. A ordinary purchase overall with no major complaints.,1,Neutral
+R0145,Returned immediately. Everything about this is just pathetic.,0,Negative
+R0146,Nothing remarkable here. Fairly average experience all around.,1,Neutral
+R0147,This is honestly pathetic. Biggest waste of money I have ever spent.,0,Negative
+R0148,Shocking quality. Absolutely appalling and nothing like advertised.,0,Negative
+R0149,Regret every penny spent. The product is awful and does not work.,0,Negative
+R0150,Absolutely superb experience from start to finish. Exceeded every expectation.,2,Positive
+R0151,Works as expected. A ordinary purchase overall with no major complaints.,1,Neutral
+R0152,Returned immediately. Everything about this is just terrible.,0,Negative
+R0153,Nothing remarkable here. Fairly ordinary experience all around.,1,Neutral
+R0154,Regret every penny spent. The product is awful and does not work.,0,Negative
+R0155,Works as expected. A standard purchase overall with no major complaints.,1,Neutral
+R0156,Delivered on time. Quality seems adequate for the price range.,1,Neutral
+R0157,It is a passable product. Nothing special but nothing too bad either.,1,Neutral
+R0158,The superb quality really impressed me. Would buy again without hesitation.,2,Positive
+R0159,Works as expected. A standard purchase overall with no major complaints.,1,Neutral
+R0160,Works as expected. A mediocre purchase overall with no major complaints.,1,Neutral
+R0161,The product is standard. Would not rush to recommend but it is fine.,1,Neutral
+R0162,It is a standard product. Nothing special but nothing too bad either.,1,Neutral
+R0163,This is honestly dreadful. Biggest waste of money I have ever spent.,0,Negative
+R0164,Expected so much more. The quality is appalling and service is even worse.,0,Negative
+R0165,Expected so much more. The quality is awful and service is even worse.,0,Negative
+R0166,Shocking quality. Absolutely pathetic and nothing like advertised.,0,Negative
+R0167,I am genuinely thrilled with this purchase. The quality is fantastic.,2,Positive
+R0168,Do not buy. The whole experience was worthless and I was disappointed.,0,Negative
+R0169,Cannot recommend this enough. Simply great in every single aspect.,2,Positive
+R0170,An average item that does exactly what the description says.,1,Neutral
+R0171,Returned immediately. Everything about this is just awful.,0,Negative
+R0172,This is honestly appalling. Biggest waste of money I have ever spent.,0,Negative
+R0173,Pleasantly surprised by how outstanding this turned out to be.,2,Positive
+R0174,The product is average. Would not rush to recommend but it is fine.,1,Neutral
+R0175,Expected so much more. The quality is terrible and service is even worse.,0,Negative
+R0176,This is honestly useless. Biggest waste of money I have ever spent.,0,Negative
+R0177,Works as expected. A standard purchase overall with no major complaints.,1,Neutral
+R0178,Delivered on time. Quality seems typical for the price range.,1,Neutral
+R0179,Regret every penny spent. The product is worthless and does not work.,0,Negative
+R0180,Completely terrible from the packaging to the product itself. Avoid.,0,Negative
+R0181,Delivered on time. Quality seems mediocre for the price range.,1,Neutral
+R0182,Regret every penny spent. The product is appalling and does not work.,0,Negative
+R0183,Average in most ways. A standard option if you have no other choice.,1,Neutral
+R0184,Returned immediately. Everything about this is just appalling.,0,Negative
+R0185,wonderful product with exceptional support team. Could not ask for more.,2,Positive
+R0186,An mediocre item that does exactly what the description says.,1,Neutral
+R0187,This is honestly horrible. Biggest waste of money I have ever spent.,0,Negative
+R0188,Five stars all the way. This is truly amazing and worth every penny.,2,Positive
+R0189,Returned immediately. Everything about this is just worthless.,0,Negative
+R0190,This is honestly useless. Biggest waste of money I have ever spent.,0,Negative
+R0191,Cannot recommend this enough. Simply perfect in every single aspect.,2,Positive
+R0192,Average in most ways. A standard option if you have no other choice.,1,Neutral
+R0193,An standard item that does exactly what the description says.,1,Neutral
+R0194,Absolutely brilliant experience from start to finish. Exceeded every expectation.,2,Positive
+R0195,Average in most ways. A moderate option if you have no other choice.,1,Neutral
+R0196,I am genuinely thrilled with this purchase. The quality is wonderful.,2,Positive
+R0197,Average in most ways. A mediocre option if you have no other choice.,1,Neutral
+R0198,This is honestly horrible. Biggest waste of money I have ever spent.,0,Negative
+R0199,I am genuinely thrilled with this purchase. The quality is fantastic.,2,Positive
+R0200,This is honestly horrible. Biggest waste of money I have ever spent.,0,Negative
+R0201,Pleasantly surprised by how perfect this turned out to be.,2,Positive
+R0202,Five stars all the way. This is truly fantastic and worth every penny.,2,Positive
+R0203,This is honestly appalling. Biggest waste of money I have ever spent.,0,Negative
+R0204,Delivered on time. Quality seems ordinary for the price range.,1,Neutral
+R0205,It is a reasonable product. Nothing special but nothing too bad either.,1,Neutral
+R0206,An passable item that does exactly what the description says.,1,Neutral
+R0207,Absolutely superb experience from start to finish. Exceeded every expectation.,2,Positive
+R0208,Completely appalling from the packaging to the product itself. Avoid.,0,Negative
+R0209,It is a ordinary product. Nothing special but nothing too bad either.,1,Neutral
+R0210,It is a adequate product. Nothing special but nothing too bad either.,1,Neutral
+R0211,The product is acceptable. Would not rush to recommend but it is fine.,1,Neutral
+R0212,Absolutely brilliant experience from start to finish. Exceeded every expectation.,2,Positive
+R0213,The excellent quality really impressed me. Would buy again without hesitation.,2,Positive
+R0214,Delivered on time. Quality seems average for the price range.,1,Neutral
+R0215,It is a typical product. Nothing special but nothing too bad either.,1,Neutral
+R0216,An mediocre item that does exactly what the description says.,1,Neutral
+R0217,It is a moderate product. Nothing special but nothing too bad either.,1,Neutral
+R0218,Pleasantly surprised by how amazing this turned out to be.,2,Positive
+R0219,Returned immediately. Everything about this is just atrocious.,0,Negative
+R0220,Delivered on time. Quality seems reasonable for the price range.,1,Neutral
+R0221,Nothing remarkable here. Fairly typical experience all around.,1,Neutral
+R0222,Shocking quality. Absolutely horrible and nothing like advertised.,0,Negative
+R0223,Cannot recommend this enough. Simply amazing in every single aspect.,2,Positive
+R0224,Delivered on time. Quality seems standard for the price range.,1,Neutral
+R0225,Five stars all the way. This is truly amazing and worth every penny.,2,Positive
+R0226,Shocking quality. Absolutely atrocious and nothing like advertised.,0,Negative
+R0227,The brilliant quality really impressed me. Would buy again without hesitation.,2,Positive
+R0228,Completely horrible from the packaging to the product itself. Avoid.,0,Negative
+R0229,The superb quality really impressed me. Would buy again without hesitation.,2,Positive
+R0230,The product is reasonable. Would not rush to recommend but it is fine.,1,Neutral
+R0231,Regret every penny spent. The product is horrible and does not work.,0,Negative
+R0232,I am genuinely thrilled with this purchase. The quality is brilliant.,2,Positive
+R0233,Works as expected. A mediocre purchase overall with no major complaints.,1,Neutral
+R0234,Do not buy. The whole experience was worthless and I was disappointed.,0,Negative
+R0235,This is honestly worthless. Biggest waste of money I have ever spent.,0,Negative
+R0236,great product with exceptional support team. Could not ask for more.,2,Positive
+R0237,Completely appalling from the packaging to the product itself. Avoid.,0,Negative
+R0238,Absolutely brilliant experience from start to finish. Exceeded every expectation.,2,Positive
+R0239,I am genuinely thrilled with this purchase. The quality is great.,2,Positive
+R0240,Works as expected. A average purchase overall with no major complaints.,1,Neutral
+R0241,Pleasantly surprised by how fantastic this turned out to be.,2,Positive
+R0242,Regret every penny spent. The product is atrocious and does not work.,0,Negative
+R0243,The brilliant quality really impressed me. Would buy again without hesitation.,2,Positive
+R0244,wonderful product with exceptional support team. Could not ask for more.,2,Positive
+R0245,The product is acceptable. Would not rush to recommend but it is fine.,1,Neutral
+R0246,The wonderful quality really impressed me. Would buy again without hesitation.,2,Positive
+R0247,Works as expected. A mediocre purchase overall with no major complaints.,1,Neutral
+R0248,Nothing remarkable here. Fairly average experience all around.,1,Neutral
+R0249,Expected so much more. The quality is useless and service is even worse.,0,Negative
+R0250,amazing product with exceptional support team. Could not ask for more.,2,Positive
+R0251,Works as expected. A reasonable purchase overall with no major complaints.,1,Neutral
+R0252,Completely worthless from the packaging to the product itself. Avoid.,0,Negative
+R0253,Works as expected. A average purchase overall with no major complaints.,1,Neutral
+R0254,Returned immediately. Everything about this is just appalling.,0,Negative
+R0255,Returned immediately. Everything about this is just worthless.,0,Negative
+R0256,Delivered on time. Quality seems adequate for the price range.,1,Neutral
+R0257,Do not buy. The whole experience was terrible and I was disappointed.,0,Negative
+R0258,Regret every penny spent. The product is awful and does not work.,0,Negative
+R0259,fantastic product with exceptional support team. Could not ask for more.,2,Positive
+R0260,Shocking quality. Absolutely atrocious and nothing like advertised.,0,Negative
+R0261,amazing product with exceptional support team. Could not ask for more.,2,Positive
+R0262,Completely disgusting from the packaging to the product itself. Avoid.,0,Negative
+R0263,Works as expected. A reasonable purchase overall with no major complaints.,1,Neutral
+R0264,This is honestly awful. Biggest waste of money I have ever spent.,0,Negative
+R0265,Works as expected. A reasonable purchase overall with no major complaints.,1,Neutral
+R0266,Works as expected. A ordinary purchase overall with no major complaints.,1,Neutral
+R0267,An adequate item that does exactly what the description says.,1,Neutral
+R0268,This is honestly disgusting. Biggest waste of money I have ever spent.,0,Negative
+R0269,Average in most ways. A passable option if you have no other choice.,1,Neutral
+R0270,Delivered on time. Quality seems average for the price range.,1,Neutral
+R0271,Cannot recommend this enough. Simply excellent in every single aspect.,2,Positive
+R0272,An acceptable item that does exactly what the description says.,1,Neutral
+R0273,Returned immediately. Everything about this is just pathetic.,0,Negative
+R0274,outstanding product with exceptional support team. Could not ask for more.,2,Positive
+R0275,Average in most ways. A acceptable option if you have no other choice.,1,Neutral
+R0276,This is honestly appalling. Biggest waste of money I have ever spent.,0,Negative
+R0277,Regret every penny spent. The product is appalling and does not work.,0,Negative
+R0278,Expected so much more. The quality is dreadful and service is even worse.,0,Negative
+R0279,An standard item that does exactly what the description says.,1,Neutral
+R0280,Shocking quality. Absolutely disgusting and nothing like advertised.,0,Negative
+R0281,Average in most ways. A mediocre option if you have no other choice.,1,Neutral
+R0282,Five stars all the way. This is truly perfect and worth every penny.,2,Positive
+R0283,Cannot recommend this enough. Simply brilliant in every single aspect.,2,Positive
+R0284,Regret every penny spent. The product is horrible and does not work.,0,Negative
+R0285,The product is reasonable. Would not rush to recommend but it is fine.,1,Neutral
+R0286,Returned immediately. Everything about this is just appalling.,0,Negative
+R0287,Completely worthless from the packaging to the product itself. Avoid.,0,Negative
+R0288,Returned immediately. Everything about this is just useless.,0,Negative
+R0289,An acceptable item that does exactly what the description says.,1,Neutral
+R0290,Works as expected. A acceptable purchase overall with no major complaints.,1,Neutral
+R0291,brilliant product with exceptional support team. Could not ask for more.,2,Positive
+R0292,Nothing remarkable here. Fairly standard experience all around.,1,Neutral
+R0293,Delivered on time. Quality seems average for the price range.,1,Neutral
+R0294,The wonderful quality really impressed me. Would buy again without hesitation.,2,Positive
+R0295,Shocking quality. Absolutely worthless and nothing like advertised.,0,Negative
+R0296,Delivered on time. Quality seems standard for the price range.,1,Neutral
+R0297,Average in most ways. A passable option if you have no other choice.,1,Neutral
+R0298,Delivered on time. Quality seems adequate for the price range.,1,Neutral
+R0299,Absolutely brilliant experience from start to finish. Exceeded every expectation.,2,Positive
+R0300,Expected so much more. The quality is awful and service is even worse.,0,Negative
+R0301,outstanding product with exceptional support team. Could not ask for more.,2,Positive
+R0302,Expected so much more. The quality is disgusting and service is even worse.,0,Negative
+R0303,The brilliant quality really impressed me. Would buy again without hesitation.,2,Positive
+R0304,I am genuinely thrilled with this purchase. The quality is perfect.,2,Positive
+R0305,Delivered on time. Quality seems standard for the price range.,1,Neutral
+R0306,An acceptable item that does exactly what the description says.,1,Neutral
+R0307,Expected so much more. The quality is useless and service is even worse.,0,Negative
+R0308,Absolutely superb experience from start to finish. Exceeded every expectation.,2,Positive
+R0309,Five stars all the way. This is truly amazing and worth every penny.,2,Positive
+R0310,The brilliant quality really impressed me. Would buy again without hesitation.,2,Positive
+R0311,Works as expected. A moderate purchase overall with no major complaints.,1,Neutral
+R0312,Works as expected. A reasonable purchase overall with no major complaints.,1,Neutral
+R0313,Delivered on time. Quality seems mediocre for the price range.,1,Neutral
+R0314,Regret every penny spent. The product is pathetic and does not work.,0,Negative
+R0315,Works as expected. A typical purchase overall with no major complaints.,1,Neutral
+R0316,Returned immediately. Everything about this is just terrible.,0,Negative
+R0317,I am genuinely thrilled with this purchase. The quality is great.,2,Positive
+R0318,Completely terrible from the packaging to the product itself. Avoid.,0,Negative
+R0319,Do not buy. The whole experience was awful and I was disappointed.,0,Negative
+R0320,Pleasantly surprised by how outstanding this turned out to be.,2,Positive
+R0321,The great quality really impressed me. Would buy again without hesitation.,2,Positive
+R0322,The excellent quality really impressed me. Would buy again without hesitation.,2,Positive
+R0323,Do not buy. The whole experience was dreadful and I was disappointed.,0,Negative
+R0324,Completely appalling from the packaging to the product itself. Avoid.,0,Negative
+R0325,Five stars all the way. This is truly fantastic and worth every penny.,2,Positive
+R0326,Cannot recommend this enough. Simply perfect in every single aspect.,2,Positive
+R0327,This is honestly terrible. Biggest waste of money I have ever spent.,0,Negative
+R0328,The product is standard. Would not rush to recommend but it is fine.,1,Neutral
+R0329,Expected so much more. The quality is pathetic and service is even worse.,0,Negative
+R0330,This is honestly atrocious. Biggest waste of money I have ever spent.,0,Negative
+R0331,Expected so much more. The quality is worthless and service is even worse.,0,Negative
+R0332,An acceptable item that does exactly what the description says.,1,Neutral
+R0333,I am genuinely thrilled with this purchase. The quality is brilliant.,2,Positive
+R0334,Five stars all the way. This is truly brilliant and worth every penny.,2,Positive
+R0335,Returned immediately. Everything about this is just horrible.,0,Negative
+R0336,The fantastic quality really impressed me. Would buy again without hesitation.,2,Positive
+R0337,Returned immediately. Everything about this is just dreadful.,0,Negative
+R0338,The perfect quality really impressed me. Would buy again without hesitation.,2,Positive
+R0339,Nothing remarkable here. Fairly moderate experience all around.,1,Neutral
+R0340,Delivered on time. Quality seems passable for the price range.,1,Neutral
+R0341,Nothing remarkable here. Fairly mediocre experience all around.,1,Neutral
+R0342,An adequate item that does exactly what the description says.,1,Neutral
+R0343,Absolutely perfect experience from start to finish. Exceeded every expectation.,2,Positive
+R0344,Regret every penny spent. The product is appalling and does not work.,0,Negative
+R0345,Absolutely outstanding experience from start to finish. Exceeded every expectation.,2,Positive
+R0346,An moderate item that does exactly what the description says.,1,Neutral
+R0347,Returned immediately. Everything about this is just dreadful.,0,Negative
+R0348,Shocking quality. Absolutely appalling and nothing like advertised.,0,Negative
+R0349,The product is average. Would not rush to recommend but it is fine.,1,Neutral
+R0350,Delivered on time. Quality seems typical for the price range.,1,Neutral
+R0351,Returned immediately. Everything about this is just useless.,0,Negative
+R0352,Five stars all the way. This is truly excellent and worth every penny.,2,Positive
+R0353,This is honestly pathetic. Biggest waste of money I have ever spent.,0,Negative
+R0354,Do not buy. The whole experience was horrible and I was disappointed.,0,Negative
+R0355,This is honestly pathetic. Biggest waste of money I have ever spent.,0,Negative
+R0356,Absolutely excellent experience from start to finish. Exceeded every expectation.,2,Positive
+R0357,Nothing remarkable here. Fairly reasonable experience all around.,1,Neutral
+R0358,It is a average product. Nothing special but nothing too bad either.,1,Neutral
+R0359,Completely disgusting from the packaging to the product itself. Avoid.,0,Negative
+R0360,Regret every penny spent. The product is worthless and does not work.,0,Negative
+R0361,An mediocre item that does exactly what the description says.,1,Neutral
+R0362,Pleasantly surprised by how perfect this turned out to be.,2,Positive
+R0363,Works as expected. A passable purchase overall with no major complaints.,1,Neutral
+R0364,This is honestly terrible. Biggest waste of money I have ever spent.,0,Negative
+R0365,This is honestly appalling. Biggest waste of money I have ever spent.,0,Negative
+R0366,It is a adequate product. Nothing special but nothing too bad either.,1,Neutral
+R0367,I am genuinely thrilled with this purchase. The quality is brilliant.,2,Positive
+R0368,Average in most ways. A acceptable option if you have no other choice.,1,Neutral
+R0369,It is a average product. Nothing special but nothing too bad either.,1,Neutral
+R0370,Absolutely great experience from start to finish. Exceeded every expectation.,2,Positive
+R0371,Works as expected. A standard purchase overall with no major complaints.,1,Neutral
+R0372,Expected so much more. The quality is disgusting and service is even worse.,0,Negative
+R0373,The great quality really impressed me. Would buy again without hesitation.,2,Positive
+R0374,Absolutely perfect experience from start to finish. Exceeded every expectation.,2,Positive
+R0375,The perfect quality really impressed me. Would buy again without hesitation.,2,Positive
+R0376,Works as expected. A mediocre purchase overall with no major complaints.,1,Neutral
+R0377,Expected so much more. The quality is horrible and service is even worse.,0,Negative
+R0378,Do not buy. The whole experience was terrible and I was disappointed.,0,Negative
+R0379,An passable item that does exactly what the description says.,1,Neutral
+R0380,It is a typical product. Nothing special but nothing too bad either.,1,Neutral
+R0381,An passable item that does exactly what the description says.,1,Neutral
+R0382,Nothing remarkable here. Fairly mediocre experience all around.,1,Neutral
+R0383,The outstanding quality really impressed me. Would buy again without hesitation.,2,Positive
+R0384,Returned immediately. Everything about this is just terrible.,0,Negative
+R0385,Pleasantly surprised by how great this turned out to be.,2,Positive
+R0386,Works as expected. A acceptable purchase overall with no major complaints.,1,Neutral
+R0387,Works as expected. A ordinary purchase overall with no major complaints.,1,Neutral
+R0388,Shocking quality. Absolutely horrible and nothing like advertised.,0,Negative
+R0389,Pleasantly surprised by how fantastic this turned out to be.,2,Positive
+R0390,Five stars all the way. This is truly wonderful and worth every penny.,2,Positive
+R0391,Shocking quality. Absolutely disgusting and nothing like advertised.,0,Negative
+R0392,An reasonable item that does exactly what the description says.,1,Neutral
+R0393,Five stars all the way. This is truly outstanding and worth every penny.,2,Positive
+R0394,Shocking quality. Absolutely pathetic and nothing like advertised.,0,Negative
+R0395,Returned immediately. Everything about this is just dreadful.,0,Negative
+R0396,Returned immediately. Everything about this is just horrible.,0,Negative
+R0397,amazing product with exceptional support team. Could not ask for more.,2,Positive
+R0398,This is honestly pathetic. Biggest waste of money I have ever spent.,0,Negative
+R0399,Do not buy. The whole experience was appalling and I was disappointed.,0,Negative
+R0400,This is honestly dreadful. Biggest waste of money I have ever spent.,0,Negative
+R0401,Nothing remarkable here. Fairly reasonable experience all around.,1,Neutral
+R0402,Delivered on time. Quality seems ordinary for the price range.,1,Neutral
+R0403,Returned immediately. Everything about this is just pathetic.,0,Negative
+R0404,Cannot recommend this enough. Simply brilliant in every single aspect.,2,Positive
+R0405,Pleasantly surprised by how outstanding this turned out to be.,2,Positive
+R0406,An acceptable item that does exactly what the description says.,1,Neutral
+R0407,fantastic product with exceptional support team. Could not ask for more.,2,Positive
+R0408,Delivered on time. Quality seems acceptable for the price range.,1,Neutral
+R0409,Delivered on time. Quality seems moderate for the price range.,1,Neutral
+R0410,Completely dreadful from the packaging to the product itself. Avoid.,0,Negative
+R0411,Delivered on time. Quality seems typical for the price range.,1,Neutral
+R0412,Works as expected. A average purchase overall with no major complaints.,1,Neutral
+R0413,The product is moderate. Would not rush to recommend but it is fine.,1,Neutral
+R0414,Cannot recommend this enough. Simply brilliant in every single aspect.,2,Positive
+R0415,This is honestly useless. Biggest waste of money I have ever spent.,0,Negative
+R0416,Returned immediately. Everything about this is just horrible.,0,Negative
+R0417,Expected so much more. The quality is useless and service is even worse.,0,Negative
+R0418,Completely appalling from the packaging to the product itself. Avoid.,0,Negative
+R0419,Completely horrible from the packaging to the product itself. Avoid.,0,Negative
+R0420,Absolutely terrific experience from start to finish. Exceeded every expectation.,2,Positive
+R0421,Do not buy. The whole experience was disgusting and I was disappointed.,0,Negative
+R0422,Do not buy. The whole experience was useless and I was disappointed.,0,Negative
+R0423,It is a mediocre product. Nothing special but nothing too bad either.,1,Neutral
+R0424,Cannot recommend this enough. Simply terrific in every single aspect.,2,Positive
+R0425,Absolutely superb experience from start to finish. Exceeded every expectation.,2,Positive
+R0426,Expected so much more. The quality is disgusting and service is even worse.,0,Negative
+R0427,Completely horrible from the packaging to the product itself. Avoid.,0,Negative
+R0428,The product is mediocre. Would not rush to recommend but it is fine.,1,Neutral
+R0429,Pleasantly surprised by how brilliant this turned out to be.,2,Positive
+R0430,Returned immediately. Everything about this is just disgusting.,0,Negative
+R0431,Absolutely superb experience from start to finish. Exceeded every expectation.,2,Positive
+R0432,The fantastic quality really impressed me. Would buy again without hesitation.,2,Positive
+R0433,Shocking quality. Absolutely horrible and nothing like advertised.,0,Negative
+R0434,Works as expected. A standard purchase overall with no major complaints.,1,Neutral
+R0435,This is honestly pathetic. Biggest waste of money I have ever spent.,0,Negative
+R0436,Delivered on time. Quality seems standard for the price range.,1,Neutral
+R0437,The amazing quality really impressed me. Would buy again without hesitation.,2,Positive
+R0438,I am genuinely thrilled with this purchase. The quality is wonderful.,2,Positive
+R0439,I am genuinely thrilled with this purchase. The quality is fantastic.,2,Positive
+R0440,Works as expected. A acceptable purchase overall with no major complaints.,1,Neutral
+R0441,Regret every penny spent. The product is appalling and does not work.,0,Negative
+R0442,I am genuinely thrilled with this purchase. The quality is superb.,2,Positive
+R0443,Average in most ways. A mediocre option if you have no other choice.,1,Neutral
+R0444,Works as expected. A moderate purchase overall with no major complaints.,1,Neutral
+R0445,Absolutely perfect experience from start to finish. Exceeded every expectation.,2,Positive
+R0446,Completely pathetic from the packaging to the product itself. Avoid.,0,Negative
+R0447,Average in most ways. A average option if you have no other choice.,1,Neutral
+R0448,Do not buy. The whole experience was pathetic and I was disappointed.,0,Negative
+R0449,Average in most ways. A reasonable option if you have no other choice.,1,Neutral
+R0450,This is honestly awful. Biggest waste of money I have ever spent.,0,Negative
+R0451,Completely worthless from the packaging to the product itself. Avoid.,0,Negative
+R0452,The perfect quality really impressed me. Would buy again without hesitation.,2,Positive
+R0453,terrific product with exceptional support team. Could not ask for more.,2,Positive
+R0454,Absolutely amazing experience from start to finish. Exceeded every expectation.,2,Positive
+R0455,Expected so much more. The quality is disgusting and service is even worse.,0,Negative
+R0456,Completely worthless from the packaging to the product itself. Avoid.,0,Negative
+R0457,Returned immediately. Everything about this is just terrible.,0,Negative
+R0458,An moderate item that does exactly what the description says.,1,Neutral
+R0459,Returned immediately. Everything about this is just horrible.,0,Negative
+R0460,The product is mediocre. Would not rush to recommend but it is fine.,1,Neutral
+R0461,The perfect quality really impressed me. Would buy again without hesitation.,2,Positive
+R0462,Cannot recommend this enough. Simply terrific in every single aspect.,2,Positive
+R0463,Do not buy. The whole experience was dreadful and I was disappointed.,0,Negative
+R0464,Average in most ways. A typical option if you have no other choice.,1,Neutral
+R0465,Completely useless from the packaging to the product itself. Avoid.,0,Negative
+R0466,The brilliant quality really impressed me. Would buy again without hesitation.,2,Positive
+R0467,Delivered on time. Quality seems standard for the price range.,1,Neutral
+R0468,It is a passable product. Nothing special but nothing too bad either.,1,Neutral
+R0469,Regret every penny spent. The product is dreadful and does not work.,0,Negative
+R0470,Do not buy. The whole experience was horrible and I was disappointed.,0,Negative
+R0471,Cannot recommend this enough. Simply excellent in every single aspect.,2,Positive
+R0472,Works as expected. A average purchase overall with no major complaints.,1,Neutral
+R0473,Five stars all the way. This is truly great and worth every penny.,2,Positive
+R0474,Cannot recommend this enough. Simply fantastic in every single aspect.,2,Positive
+R0475,The product is acceptable. Would not rush to recommend but it is fine.,1,Neutral
+R0476,Returned immediately. Everything about this is just pathetic.,0,Negative
+R0477,I am genuinely thrilled with this purchase. The quality is superb.,2,Positive
+R0478,Absolutely great experience from start to finish. Exceeded every expectation.,2,Positive
+R0479,Do not buy. The whole experience was horrible and I was disappointed.,0,Negative
+R0480,Delivered on time. Quality seems reasonable for the price range.,1,Neutral
+R0481,Average in most ways. A typical option if you have no other choice.,1,Neutral
+R0482,Average in most ways. A ordinary option if you have no other choice.,1,Neutral
+R0483,It is a adequate product. Nothing special but nothing too bad either.,1,Neutral
+R0484,Expected so much more. The quality is awful and service is even worse.,0,Negative
+R0485,It is a passable product. Nothing special but nothing too bad either.,1,Neutral
+R0486,The product is standard. Would not rush to recommend but it is fine.,1,Neutral
+R0487,The excellent quality really impressed me. Would buy again without hesitation.,2,Positive
+R0488,The wonderful quality really impressed me. Would buy again without hesitation.,2,Positive
+R0489,Pleasantly surprised by how superb this turned out to be.,2,Positive
+R0490,The amazing quality really impressed me. Would buy again without hesitation.,2,Positive
+R0491,Returned immediately. Everything about this is just worthless.,0,Negative
+R0492,The wonderful quality really impressed me. Would buy again without hesitation.,2,Positive
+R0493,Regret every penny spent. The product is atrocious and does not work.,0,Negative
+R0494,Absolutely outstanding experience from start to finish. Exceeded every expectation.,2,Positive
+R0495,Expected so much more. The quality is useless and service is even worse.,0,Negative
+R0496,This is honestly dreadful. Biggest waste of money I have ever spent.,0,Negative
+R0497,Average in most ways. A typical option if you have no other choice.,1,Neutral
+R0498,An ordinary item that does exactly what the description says.,1,Neutral
+R0499,Pleasantly surprised by how fantastic this turned out to be.,2,Positive
+R0500,An ordinary item that does exactly what the description says.,1,Neutral
+R0501,Absolutely great experience from start to finish. Exceeded every expectation.,2,Positive
+R0502,Five stars all the way. This is truly fantastic and worth every penny.,2,Positive
+R0503,brilliant product with exceptional support team. Could not ask for more.,2,Positive
+R0504,Delivered on time. Quality seems mediocre for the price range.,1,Neutral
+R0505,Completely pathetic from the packaging to the product itself. Avoid.,0,Negative
+R0506,Cannot recommend this enough. Simply fantastic in every single aspect.,2,Positive
+R0507,Delivered on time. Quality seems adequate for the price range.,1,Neutral
+R0508,Average in most ways. A average option if you have no other choice.,1,Neutral
+R0509,Cannot recommend this enough. Simply excellent in every single aspect.,2,Positive
+R0510,The product is reasonable. Would not rush to recommend but it is fine.,1,Neutral
+R0511,Cannot recommend this enough. Simply terrific in every single aspect.,2,Positive
+R0512,Do not buy. The whole experience was appalling and I was disappointed.,0,Negative
+R0513,Cannot recommend this enough. Simply perfect in every single aspect.,2,Positive
+R0514,Works as expected. A acceptable purchase overall with no major complaints.,1,Neutral
+R0515,Delivered on time. Quality seems typical for the price range.,1,Neutral
+R0516,Average in most ways. A passable option if you have no other choice.,1,Neutral
+R0517,Completely useless from the packaging to the product itself. Avoid.,0,Negative
+R0518,Regret every penny spent. The product is atrocious and does not work.,0,Negative
+R0519,Shocking quality. Absolutely appalling and nothing like advertised.,0,Negative
+R0520,fantastic product with exceptional support team. Could not ask for more.,2,Positive
+R0521,Cannot recommend this enough. Simply terrific in every single aspect.,2,Positive
+R0522,Nothing remarkable here. Fairly mediocre experience all around.,1,Neutral
+R0523,Completely dreadful from the packaging to the product itself. Avoid.,0,Negative
+R0524,Nothing remarkable here. Fairly typical experience all around.,1,Neutral
+R0525,The product is adequate. Would not rush to recommend but it is fine.,1,Neutral
+R0526,Delivered on time. Quality seems mediocre for the price range.,1,Neutral
+R0527,The product is moderate. Would not rush to recommend but it is fine.,1,Neutral
+R0528,The excellent quality really impressed me. Would buy again without hesitation.,2,Positive
+R0529,Do not buy. The whole experience was horrible and I was disappointed.,0,Negative
+R0530,It is a acceptable product. Nothing special but nothing too bad either.,1,Neutral
+R0531,Five stars all the way. This is truly superb and worth every penny.,2,Positive
+R0532,Do not buy. The whole experience was pathetic and I was disappointed.,0,Negative
+R0533,Delivered on time. Quality seems typical for the price range.,1,Neutral
+R0534,Do not buy. The whole experience was disgusting and I was disappointed.,0,Negative
+R0535,Delivered on time. Quality seems ordinary for the price range.,1,Neutral
+R0536,Regret every penny spent. The product is dreadful and does not work.,0,Negative
+R0537,This is honestly useless. Biggest waste of money I have ever spent.,0,Negative
+R0538,Shocking quality. Absolutely awful and nothing like advertised.,0,Negative
+R0539,I am genuinely thrilled with this purchase. The quality is fantastic.,2,Positive
+R0540,It is a mediocre product. Nothing special but nothing too bad either.,1,Neutral
+R0541,amazing product with exceptional support team. Could not ask for more.,2,Positive
+R0542,I am genuinely thrilled with this purchase. The quality is terrific.,2,Positive
+R0543,Cannot recommend this enough. Simply amazing in every single aspect.,2,Positive
+R0544,Delivered on time. Quality seems moderate for the price range.,1,Neutral
+R0545,This is honestly horrible. Biggest waste of money I have ever spent.,0,Negative
+R0546,I am genuinely thrilled with this purchase. The quality is excellent.,2,Positive
+R0547,Completely dreadful from the packaging to the product itself. Avoid.,0,Negative
+R0548,This is honestly terrible. Biggest waste of money I have ever spent.,0,Negative
+R0549,Cannot recommend this enough. Simply amazing in every single aspect.,2,Positive
+R0550,Returned immediately. Everything about this is just awful.,0,Negative
+R0551,Do not buy. The whole experience was worthless and I was disappointed.,0,Negative
+R0552,Cannot recommend this enough. Simply amazing in every single aspect.,2,Positive
+R0553,Pleasantly surprised by how perfect this turned out to be.,2,Positive
+R0554,Five stars all the way. This is truly wonderful and worth every penny.,2,Positive
+R0555,An average item that does exactly what the description says.,1,Neutral
+R0556,Cannot recommend this enough. Simply excellent in every single aspect.,2,Positive
+R0557,It is a standard product. Nothing special but nothing too bad either.,1,Neutral
+R0558,Nothing remarkable here. Fairly adequate experience all around.,1,Neutral
+R0559,Nothing remarkable here. Fairly average experience all around.,1,Neutral
+R0560,Absolutely great experience from start to finish. Exceeded every expectation.,2,Positive
+R0561,Expected so much more. The quality is terrible and service is even worse.,0,Negative
+R0562,This is honestly horrible. Biggest waste of money I have ever spent.,0,Negative
+R0563,Nothing remarkable here. Fairly acceptable experience all around.,1,Neutral
+R0564,Regret every penny spent. The product is appalling and does not work.,0,Negative
+R0565,Cannot recommend this enough. Simply perfect in every single aspect.,2,Positive
+R0566,fantastic product with exceptional support team. Could not ask for more.,2,Positive
+R0567,The brilliant quality really impressed me. Would buy again without hesitation.,2,Positive
+R0568,Absolutely excellent experience from start to finish. Exceeded every expectation.,2,Positive
+R0569,Average in most ways. A moderate option if you have no other choice.,1,Neutral
+R0570,Absolutely brilliant experience from start to finish. Exceeded every expectation.,2,Positive
+R0571,Absolutely superb experience from start to finish. Exceeded every expectation.,2,Positive
+R0572,The product is passable. Would not rush to recommend but it is fine.,1,Neutral
+R0573,Shocking quality. Absolutely pathetic and nothing like advertised.,0,Negative
+R0574,I am genuinely thrilled with this purchase. The quality is amazing.,2,Positive
+R0575,Nothing remarkable here. Fairly standard experience all around.,1,Neutral
+R0576,Returned immediately. Everything about this is just horrible.,0,Negative
+R0577,Five stars all the way. This is truly brilliant and worth every penny.,2,Positive
+R0578,Works as expected. A moderate purchase overall with no major complaints.,1,Neutral
+R0579,The terrific quality really impressed me. Would buy again without hesitation.,2,Positive
+R0580,Absolutely wonderful experience from start to finish. Exceeded every expectation.,2,Positive
+R0581,This is honestly horrible. Biggest waste of money I have ever spent.,0,Negative
+R0582,Completely atrocious from the packaging to the product itself. Avoid.,0,Negative
+R0583,Nothing remarkable here. Fairly ordinary experience all around.,1,Neutral
+R0584,This is honestly horrible. Biggest waste of money I have ever spent.,0,Negative
+R0585,Regret every penny spent. The product is horrible and does not work.,0,Negative
+R0586,This is honestly horrible. Biggest waste of money I have ever spent.,0,Negative
+R0587,Absolutely superb experience from start to finish. Exceeded every expectation.,2,Positive
+R0588,Pleasantly surprised by how outstanding this turned out to be.,2,Positive
+R0589,The perfect quality really impressed me. Would buy again without hesitation.,2,Positive
+R0590,Completely dreadful from the packaging to the product itself. Avoid.,0,Negative
+R0591,This is honestly horrible. Biggest waste of money I have ever spent.,0,Negative
+R0592,Pleasantly surprised by how outstanding this turned out to be.,2,Positive
+R0593,I am genuinely thrilled with this purchase. The quality is fantastic.,2,Positive
+R0594,This is honestly awful. Biggest waste of money I have ever spent.,0,Negative
+R0595,brilliant product with exceptional support team. Could not ask for more.,2,Positive
+R0596,Works as expected. A passable purchase overall with no major complaints.,1,Neutral
+R0597,An mediocre item that does exactly what the description says.,1,Neutral
+R0598,It is a acceptable product. Nothing special but nothing too bad either.,1,Neutral
+R0599,superb product with exceptional support team. Could not ask for more.,2,Positive
+R0600,I am genuinely thrilled with this purchase. The quality is amazing.,2,Positive
+R0601,Nothing remarkable here. Fairly typical experience all around.,1,Neutral
+R0602,This is honestly pathetic. Biggest waste of money I have ever spent.,0,Negative
+R0603,Average in most ways. A standard option if you have no other choice.,1,Neutral
+R0604,Returned immediately. Everything about this is just disgusting.,0,Negative
+R0605,Five stars all the way. This is truly excellent and worth every penny.,2,Positive
+R0606,Cannot recommend this enough. Simply brilliant in every single aspect.,2,Positive
+R0607,Shocking quality. Absolutely atrocious and nothing like advertised.,0,Negative
+R0608,Works as expected. A ordinary purchase overall with no major complaints.,1,Neutral
+R0609,Completely worthless from the packaging to the product itself. Avoid.,0,Negative
+R0610,It is a mediocre product. Nothing special but nothing too bad either.,1,Neutral
+R0611,It is a reasonable product. Nothing special but nothing too bad either.,1,Neutral
+R0612,Works as expected. A ordinary purchase overall with no major complaints.,1,Neutral
+R0613,Pleasantly surprised by how superb this turned out to be.,2,Positive
+R0614,Five stars all the way. This is truly fantastic and worth every penny.,2,Positive
+R0615,Shocking quality. Absolutely appalling and nothing like advertised.,0,Negative
+R0616,Returned immediately. Everything about this is just dreadful.,0,Negative
+R0617,Regret every penny spent. The product is terrible and does not work.,0,Negative
+R0618,Shocking quality. Absolutely useless and nothing like advertised.,0,Negative
+R0619,Pleasantly surprised by how amazing this turned out to be.,2,Positive
+R0620,Expected so much more. The quality is disgusting and service is even worse.,0,Negative
+R0621,Returned immediately. Everything about this is just pathetic.,0,Negative
+R0622,I am genuinely thrilled with this purchase. The quality is outstanding.,2,Positive
+R0623,excellent product with exceptional support team. Could not ask for more.,2,Positive
+R0624,Expected so much more. The quality is appalling and service is even worse.,0,Negative
+R0625,The product is standard. Would not rush to recommend but it is fine.,1,Neutral
+R0626,Regret every penny spent. The product is pathetic and does not work.,0,Negative
+R0627,Completely useless from the packaging to the product itself. Avoid.,0,Negative
+R0628,Pleasantly surprised by how terrific this turned out to be.,2,Positive
+R0629,Cannot recommend this enough. Simply terrific in every single aspect.,2,Positive
+R0630,Do not buy. The whole experience was disgusting and I was disappointed.,0,Negative
+R0631,Delivered on time. Quality seems standard for the price range.,1,Neutral
+R0632,Nothing remarkable here. Fairly standard experience all around.,1,Neutral
+R0633,Works as expected. A ordinary purchase overall with no major complaints.,1,Neutral
+R0634,The product is acceptable. Would not rush to recommend but it is fine.,1,Neutral
+R0635,Expected so much more. The quality is awful and service is even worse.,0,Negative
+R0636,The product is moderate. Would not rush to recommend but it is fine.,1,Neutral
+R0637,Expected so much more. The quality is appalling and service is even worse.,0,Negative
+R0638,Absolutely terrific experience from start to finish. Exceeded every expectation.,2,Positive
+R0639,Absolutely wonderful experience from start to finish. Exceeded every expectation.,2,Positive
+R0640,Five stars all the way. This is truly superb and worth every penny.,2,Positive
+R0641,Absolutely superb experience from start to finish. Exceeded every expectation.,2,Positive
+R0642,Completely disgusting from the packaging to the product itself. Avoid.,0,Negative
+R0643,Delivered on time. Quality seems average for the price range.,1,Neutral
+R0644,Absolutely outstanding experience from start to finish. Exceeded every expectation.,2,Positive
+R0645,Delivered on time. Quality seems ordinary for the price range.,1,Neutral
+R0646,Works as expected. A acceptable purchase overall with no major complaints.,1,Neutral
+R0647,It is a moderate product. Nothing special but nothing too bad either.,1,Neutral
+R0648,outstanding product with exceptional support team. Could not ask for more.,2,Positive
+R0649,Returned immediately. Everything about this is just pathetic.,0,Negative
+R0650,Returned immediately. Everything about this is just horrible.,0,Negative
+R0651,The product is moderate. Would not rush to recommend but it is fine.,1,Neutral
+R0652,I am genuinely thrilled with this purchase. The quality is fantastic.,2,Positive
+R0653,Expected so much more. The quality is awful and service is even worse.,0,Negative
+R0654,The perfect quality really impressed me. Would buy again without hesitation.,2,Positive
+R0655,Pleasantly surprised by how brilliant this turned out to be.,2,Positive
+R0656,The product is typical. Would not rush to recommend but it is fine.,1,Neutral
+R0657,Pleasantly surprised by how perfect this turned out to be.,2,Positive
+R0658,Shocking quality. Absolutely atrocious and nothing like advertised.,0,Negative
+R0659,Regret every penny spent. The product is awful and does not work.,0,Negative
+R0660,Returned immediately. Everything about this is just useless.,0,Negative
+R0661,Nothing remarkable here. Fairly acceptable experience all around.,1,Neutral
+R0662,I am genuinely thrilled with this purchase. The quality is outstanding.,2,Positive
+R0663,Regret every penny spent. The product is pathetic and does not work.,0,Negative
+R0664,wonderful product with exceptional support team. Could not ask for more.,2,Positive
+R0665,Works as expected. A reasonable purchase overall with no major complaints.,1,Neutral
+R0666,Shocking quality. Absolutely atrocious and nothing like advertised.,0,Negative
+R0667,Nothing remarkable here. Fairly standard experience all around.,1,Neutral
+R0668,Cannot recommend this enough. Simply wonderful in every single aspect.,2,Positive
+R0669,Works as expected. A mediocre purchase overall with no major complaints.,1,Neutral
+R0670,It is a average product. Nothing special but nothing too bad either.,1,Neutral
+R0671,Delivered on time. Quality seems standard for the price range.,1,Neutral
+R0672,Do not buy. The whole experience was dreadful and I was disappointed.,0,Negative
+R0673,Average in most ways. A average option if you have no other choice.,1,Neutral
+R0674,Five stars all the way. This is truly great and worth every penny.,2,Positive
+R0675,Do not buy. The whole experience was useless and I was disappointed.,0,Negative
+R0676,Do not buy. The whole experience was disgusting and I was disappointed.,0,Negative
+R0677,Nothing remarkable here. Fairly adequate experience all around.,1,Neutral
+R0678,Nothing remarkable here. Fairly moderate experience all around.,1,Neutral
+R0679,Do not buy. The whole experience was pathetic and I was disappointed.,0,Negative
+R0680,Expected so much more. The quality is atrocious and service is even worse.,0,Negative
+R0681,excellent product with exceptional support team. Could not ask for more.,2,Positive
+R0682,Works as expected. A adequate purchase overall with no major complaints.,1,Neutral
+R0683,This is honestly horrible. Biggest waste of money I have ever spent.,0,Negative
+R0684,Nothing remarkable here. Fairly adequate experience all around.,1,Neutral
+R0685,Five stars all the way. This is truly superb and worth every penny.,2,Positive
+R0686,Delivered on time. Quality seems average for the price range.,1,Neutral
+R0687,The product is adequate. Would not rush to recommend but it is fine.,1,Neutral
+R0688,Returned immediately. Everything about this is just pathetic.,0,Negative
+R0689,Completely awful from the packaging to the product itself. Avoid.,0,Negative
+R0690,Returned immediately. Everything about this is just dreadful.,0,Negative
+R0691,Cannot recommend this enough. Simply amazing in every single aspect.,2,Positive
+R0692,Expected so much more. The quality is awful and service is even worse.,0,Negative
+R0693,I am genuinely thrilled with this purchase. The quality is perfect.,2,Positive
+R0694,Nothing remarkable here. Fairly standard experience all around.,1,Neutral
+R0695,Expected so much more. The quality is useless and service is even worse.,0,Negative
+R0696,Regret every penny spent. The product is appalling and does not work.,0,Negative
+R0697,Works as expected. A acceptable purchase overall with no major complaints.,1,Neutral
+R0698,I am genuinely thrilled with this purchase. The quality is wonderful.,2,Positive
+R0699,Expected so much more. The quality is appalling and service is even worse.,0,Negative
+R0700,Expected so much more. The quality is appalling and service is even worse.,0,Negative
