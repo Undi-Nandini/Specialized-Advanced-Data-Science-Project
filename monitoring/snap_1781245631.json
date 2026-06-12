@@ -1,0 +1,25 @@
+{
+  "uptime_s": 0.0,
+  "total_events": 250,
+  "total_errors": 1,
+  "window": 400,
+  "n_events": 250,
+  "n_errors": 1,
+  "error_rate": 0.004,
+  "label_dist": {
+    "Negative": 0.3133,
+    "Neutral": 0.3373,
+    "Positive": 0.3494
+  },
+  "avg_conf": {
+    "Negative": 0.8046,
+    "Neutral": 0.8011,
+    "Positive": 0.7945
+  },
+  "lat_mean": 50.44,
+  "lat_p50": 52.15,
+  "lat_p95": 87.35,
+  "lat_p99": 89.28,
+  "drift_score": 0.00102,
+  "drift_alert": false
+}
