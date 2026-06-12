@@ -1,0 +1,19 @@
+{
+  "max_vocab": 6000,
+  "max_seq_len": 90,
+  "min_word_freq": 1,
+  "lowercase": true,
+  "strip_urls": true,
+  "strip_html": true,
+  "drop_stopwords": true,
+  "test_ratio": 0.2,
+  "val_ratio": 0.1,
+  "random_seed": 7,
+  "PAD": "<PAD>",
+  "UNK": "<UNK>",
+  "LABEL_MAP": {
+    "0": "Negative",
+    "1": "Neutral",
+    "2": "Positive"
+  }
+}
