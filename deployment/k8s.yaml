@@ -1,0 +1,93 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sentiment-svc
+  labels:
+    app: sentiment-svc
+    tier: inference
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: sentiment-svc
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge:       2
+      maxUnavailable: 0
+  template:
+    metadata:
+      labels:
+        app: sentiment-svc
+    spec:
+      containers:
+        - name: sentiment-svc
+          image: review-sentiment:1.0.0
+          ports:
+            - containerPort: 8080
+          envFrom:
+            - configMapRef:
+                name: sentiment-config
+          resources:
+            requests: { cpu: "200m", memory: "256Mi" }
+            limits:   { cpu: "800m", memory: "1Gi"  }
+          readinessProbe:
+            httpGet:      { path: /status, port: 8080 }
+            initialDelaySeconds: 20
+            periodSeconds:        8
+          livenessProbe:
+            httpGet:      { path: /status, port: 8080 }
+            initialDelaySeconds: 40
+            periodSeconds:       12
+
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: sentiment-config
+data:
+  MODEL_DIR: "src/network/saved"
+  LOG_LEVEL: "INFO"
+  PORT:      "8080"
+  WORKERS:   "2"
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: sentiment-svc
+spec:
+  selector:
+    app: sentiment-svc
+  ports:
+    - protocol: TCP
+      port:       80
+      targetPort: 8080
+  type: LoadBalancer
+
+---
+apiVersion: autoscaling/v2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: sentiment-hpa
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: sentiment-svc
+  minReplicas: 3
+  maxReplicas: 12
+  metrics:
+    - type: Resource
+      resource:
+        name: cpu
+        target:
+          type:               Utilization
+          averageUtilization: 65
+    - type: Resource
+      resource:
+        name: memory
+        target:
+          type:               Utilization
+          averageUtilization: 80
